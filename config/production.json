@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://gunjanaggarwal12345:MbJQ36BCeIkDLHPY@cluster0.pdtfyh3.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken"
+   }
